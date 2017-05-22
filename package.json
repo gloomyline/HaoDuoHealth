@@ -1,0 +1,23 @@
+{
+  "name": "HaoDuoHealth",
+  "version": "1.0.0",
+  "description": "WeChat app about massage service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gloomyline/HaoDuoHealth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gloomyline/HaoDuoHealth/issues"
+  },
+  "homepage": "https://github.com/gloomyline/HaoDuoHealth#readme",
+  "devDependencies": {
+    "webpack": "^2.5.1"
+  }
+}
